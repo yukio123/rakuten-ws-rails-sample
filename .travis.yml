@@ -4,7 +4,7 @@ rvm:
 deploy:
   provider: heroku
   api_key:
-    secure: MP77BuJjLo6w2SWEXIwHcOf6GEqa3ca7PyvUMY5rIkt+I3fOEXNPqcOKBAxSgrQPeWCITQoFbXbOzmEQWGF8pESevl6PRttKHZ9we00bdMfE0jx2+2sAoTRc10IjwsMSRinqa56+V3SugGsaXCDPO1yXeEVCErebCXIxNc+gmeU=
+    secure: lhEQlvGHZWP3ZYzv9go117JQG/w31bKRH3lZWSMe9C09hE5YckZurMZqicKkyhY9Y05PkJ5gVLEq0mJw7NHt6z2LZ5JQC+bP0zdDn6Krn99Acgco581nY0sdRybLCi9McTK3uRw2dHJfVGUZnq4f7CLFnR/Lk1/Zshhp3eZOa9w=
   app: floating-badlands-1929
   on:
     repo: kawahara/rakuten-ws-rails-sample
