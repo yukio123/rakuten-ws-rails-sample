@@ -48,4 +48,6 @@ gem 'rails_12factor'
 
 group :test do
   gem 'rake'
+  gem "rspec-rails"
+  gem 'capybara'
 end
