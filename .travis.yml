@@ -1,3 +1,10 @@
 language: ruby
 rvm:
-  - 2.0.0
+- 2.0.0
+deploy:
+  provider: heroku
+  api_key:
+    secure: MP77BuJjLo6w2SWEXIwHcOf6GEqa3ca7PyvUMY5rIkt+I3fOEXNPqcOKBAxSgrQPeWCITQoFbXbOzmEQWGF8pESevl6PRttKHZ9we00bdMfE0jx2+2sAoTRc10IjwsMSRinqa56+V3SugGsaXCDPO1yXeEVCErebCXIxNc+gmeU=
+  app: floating-badlands-1929
+  on:
+    repo: kawahara/rakuten-ws-rails-sample

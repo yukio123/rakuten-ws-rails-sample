@@ -43,3 +43,5 @@ end
 # gem 'debugger', group: [:development, :test]
 
 gem 'httpclient'
+
+gem 'rake', :group => :test
