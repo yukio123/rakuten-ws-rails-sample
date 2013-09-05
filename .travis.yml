@@ -7,4 +7,4 @@ deploy:
     secure: lhEQlvGHZWP3ZYzv9go117JQG/w31bKRH3lZWSMe9C09hE5YckZurMZqicKkyhY9Y05PkJ5gVLEq0mJw7NHt6z2LZ5JQC+bP0zdDn6Krn99Acgco581nY0sdRybLCi9McTK3uRw2dHJfVGUZnq4f7CLFnR/Lk1/Zshhp3eZOa9w=
   app: floating-badlands-1929
   on:
-    repo: kawahara/rakuten-ws-rails-sample
+    repo: yukio123/rakuten-ws-rails-sample
